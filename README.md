@@ -1,2 +1,2 @@
-# y10 computer science
+# y10 computer design
 
